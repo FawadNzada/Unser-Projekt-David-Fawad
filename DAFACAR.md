@@ -1,5 +1,26 @@
 # Projekt
-## DAFACAR
+
+## Projektname: 
+### DAFA-Car, (David, Fawad-Car) 
+
+### Vorgeschichte/Problemstellung/Ausgangssituation: 
+> - Der Grund, wieso wir DAFA-Car erstellen, ist, dass wir den Auto Freaks einen freien Weg der Kreativität bieten wollen. 
+> - eeeSie sollen ihre Lieblings Mercedes Fahrzeuge von außen in 
+jeglicher Art individuell gestalten. 
+---
+
+### Projektinhalt:
+> - Die Individualisierung wird so aufgebaut sein, dass die Nutzer nur von außen den Design gestalten können. Damit die Kunden eine bessere Vorstellung von unseren Projekt bekommen bieten wir folgende Design Optionen an:
+> 1.	Beliebige Modellauswahl von der Marke Mercedes-Benz
+> 2.	Farbänderung vom ganzen Auto
+> 3.	Spoiler aufsetzen
+> 4.	Auswahlmöglichkeit von unterschiedlichen Felgentypen
+> 5.	Änderung der vorderen und hinteren Stoßstange
+> 5.	Hinzufügen von Unterbodenbeleuchtung
+> 6.	Verschiedene Stile von Motorhauben 
+> -	Je nach Vorlieben kann das Fahrzeug von den Kunden getuned werden.
+> -	Die Nutzer haben die Möglichkeit das Auto deren Wünschen entsprechend zu individualisieren. Allerdings bieten wir keine Kaufoptionen an. 
+---
 
 ### Team: 
 > - Naimzada Fawad
@@ -21,20 +42,16 @@
 ---
 
 ### Projektziele: 
-> - Unser Projekziel sieht folgendermaßen aus, dass wir eine Auto Personalisierungs Website erstellen. 
-> - Die beinhaltet auch wichtige Informationen bezüglich den Preisen, der Neuen Technologien und der Unternehemsgeschichte.
-> - Zusätzlich wollen wir die Freaks ab dem 18. Lebensjahr anlocken, damit sie anhand dieser Website ihr Traumauto selbst personalisieren können.
+> - Es wird eine Konfigurierungs Website für Mercedes Freaks erstellt.
+> - Preise, die Neuen Technologien und über die Unternehemsgeschichte, werden auch präsentiert.
+> - Mercedes Freaks können ihre Kreativität frei einsetzten um sich ein Traum auto zu individualisieren
 ---
 
 ### Projekt - Nichtziele: 
 > - Diese Website dient uns nur als Übung für unser Schulprojekt und wird keinerlei mit einer Domain online veröffentlicht.
+> - Innnenaustattung wird nicht eine Option sein.
+> - Das fertig individualisierte Auto kann nicht nach der Fertigerstellung gekauft werden, dient nur für die Nutzer die ihr Traumauto gestalten wollen.
 ---
-
-> ### Projektinhalte: 
-> - Der Projektinhalt ist auf der Startseite mit mehreren Unterseiten aufgeteilt, worauf der User auf Preise und neuen Technoligien zugreifen kann, andereseits können die Freaks deren Traumautos zusätlich noch selbst gestalten.
-> - Die Personalisierung wird so aufgebaut sein, dass der Nutzer die Karroserie beliebig stylen und tönen kann. Nicht zu vergessen haben wir es auch möglich gemacht den Felgenstil und Felgenton zu ändern.
-> - Je nach Geschmack kann das Auto unseren dementsprechenden Vorstellungen getuned werden.
-> - Der Nutzer wird in der Lage sein, Mercedes Modelle in unterschiedlicher Bauweise auszuwählen und nach seiner Wahl zu konfiguieren
 
 > ### Termine
 > - Das Projekt wird mit Anfang des Jahres 2023 begonnen.
