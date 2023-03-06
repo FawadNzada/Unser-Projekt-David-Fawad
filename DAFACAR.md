@@ -4,7 +4,9 @@
 ### DAFA-Car, (David, Fawad-Car) 
 
 ### Vorgeschichte/Problemstellung/Ausgangssituation: 
-Die Webaplikatiopn DAFACAR soll die Mercedes Fans, die Möglichkeit bieten verschiedene Mercedes Fahrzeuge virtuell zu tunen.
+Die Webaplikation DAFACAR soll die Mercedes Fans, 
+die Möglichkeit bieten verschiedene Mercedes Fahrzeuge virtuell zu tunen.
+
 ---
 
 ### Projektinhalt:
@@ -40,6 +42,7 @@ Die Webaplikatiopn DAFACAR soll die Mercedes Fans, die Möglichkeit bieten versc
 Oben gennante Funktionalitäten werden erfüllt.
 Für Zielgruppe entsprechendes Design.
 Aktuellen Stand speichern bzw. zu als pdf drucken lassen
+
 ---
 
 ### Projekt - Nichtziele: 
@@ -54,4 +57,3 @@ Aktuellen Stand speichern bzw. zu als pdf drucken lassen
 > - April bis Mai gestaltung der Benutzeroberfläche
 > - Mai bis Juni Problembehebungen und Verbesserung des Projekts
 > - Juni bis Juli letzte Verbesserung und fertigstellung des Projekts
-> ->
